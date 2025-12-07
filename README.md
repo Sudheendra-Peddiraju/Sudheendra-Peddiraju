@@ -18,7 +18,7 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
   Vector search, semantic retrieval, embedding models, and multimodal LLM-assisted reasoning.
 
 - **Computer Vision & Representation Learning**  
-  Feature extraction, normalization approaches, FiLM conditioning, contrastive learning.
+  Feature conditioning, normalization approaches, contrastive learning.
 
 - **Human-Centered AI**  
   ASL representation, sign gloss retrieval, language-to-motion mapping.
