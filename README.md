@@ -32,7 +32,8 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
 - PyTorch  
 - HuggingFace Transformers  
 - Sentence Transformers  
-- TorchAudio  
+- TorchAudio
+- OpenCV
 - Gradio  
 
 ### **Machine Learning Expertise**
@@ -42,13 +43,6 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
 - RAG system design  
 - U-Net architectures & FiLM modulation  
 - Spectrogram-based processing  
-
-### **Tools & Infrastructure**
-- Git & GitHub  
-- Jupyter / Colab  
-- Docker (for HF Spaces deployment)  
-- ChromaDB  
-- Ollama / llama.cpp (GGUF inference)
 
 ---
 
