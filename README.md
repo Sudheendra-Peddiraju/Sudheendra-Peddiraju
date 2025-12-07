@@ -41,8 +41,8 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
 - Contrastive loss functions & metric learning  
 - Speaker verification pipelines  
 - RAG system design  
-- U-Net architectures & FiLM modulation  
-- Spectrogram-based processing  
+- U-Net architectures
+- Feature modulation 
 
 ---
 
