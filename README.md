@@ -34,7 +34,8 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
 - Sentence Transformers  
 - TorchAudio
 - OpenCV
-- Gradio  
+- Gradio
+- SparkML
 
 ### **Machine Learning Expertise**
 - Deep learning model development  
@@ -42,7 +43,8 @@ I enjoy building end-to-end machine learning pipelines — from data curation al
 - Speaker verification pipelines  
 - RAG system design  
 - U-Net architectures
-- Feature modulation 
+- Feature modulation
+- Image Processing
 
 ---
 
